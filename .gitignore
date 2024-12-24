@@ -1,0 +1,6 @@
+.venv/
+node_modules/
+pnpm-lock.yaml
+keys/
+__pycache__/
+bot.sqlite
